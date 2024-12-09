@@ -22,3 +22,5 @@ The code in this repository is mainly based on the implementation of the paper's
 The code for the experiments with chest X-rays images for claassifications is based on the experiment done in the paper [On Calibrated Model Uncertainty in Deep Learning](https://arxiv.org/abs/2206.07795). The dataset is built from images availables in [covid-dataset](https://github.com/ieee8023/covid-chestxray-dataset) and [kaggle-Chest-X-ray-images](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
 
 The code for this experiments is available in the notebooks [experiments_x_rays_images_convolutional](https://github.com/jlopetegui98/BayesianML-project/blob/main/experiments_x_rays_images_convolutional.ipynb) and [experiments_x_rays_images_simple_model](https://github.com/jlopetegui98/BayesianML-project/blob/main/experiments_x_rays_images_simple_model.ipynb).
+
+**Report**: [Report_BayesianML.pdf](https://github.com/jlopetegui98/BayesianML-project/blob/main/Report_BayesianML.pdf)
